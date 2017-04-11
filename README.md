@@ -7,7 +7,7 @@
 
 采用python语言编写的一个文档工具：[sphinx](http://www.sphinx-doc.org/en/stable/index.html# "sphinx")
 
-目前正在翻译中，会慢慢放出一部分翻译，到时会托管在readthedocs上。
+目前正在翻译中，会慢慢放出一部分翻译，到时会托管在[readthedocs](http://scrapy-doc-zh-cn.readthedocs.io/zh_CN/latest/)上。
 
 注意事项：
 

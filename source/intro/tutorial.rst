@@ -1,8 +1,8 @@
 .. _intro-tutorial:
 
-===============
-Scrapy Tutorial
-===============
+============================
+Scrapy Tutorial | Scrapy教程
+============================
 
 In this tutorial, we'll assume that Scrapy is already installed on your system.
 If that's not the case, see :ref:`intro-install`.

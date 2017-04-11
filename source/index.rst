@@ -7,8 +7,8 @@ Scrapy |version| 中英双语文档 by scoful
 This documentation contains everything you need to know about Scrapy.
   这个文档包含所有的Scrapy相关的资料。
 
-Getting help 获取帮助
-=====================
+Getting help | 获取帮助
+=======================
 
 Having trouble? We’d like to help!
   有问题？我们很希望能给予帮助！
@@ -33,8 +33,8 @@ Having trouble? We’d like to help!
 .. _#scrapy IRC channel: irc://irc.freenode.net/scrapy
 .. _issue tracker: https://github.com/scrapy/scrapy/issues
 
-First steps 第一步
-==================
+First steps | 第一步
+====================
 
 .. toctree::
    :caption: First steps
@@ -63,8 +63,8 @@ First steps 第一步
 
 .. _section-basics:
 
-Basic concepts 基础概念
-=======================
+Basic concepts | 基础概念
+=========================
 
 .. toctree::
    :caption: Basic concepts
@@ -132,8 +132,8 @@ Basic concepts 基础概念
     See all available exceptions and their meaning.
       查看所有可能出现的异常报错。
 
-Built-in services 内置服务
-==========================
+Built-in services | 内置服务
+============================
 
 .. toctree::
    :caption: Built-in services
@@ -166,8 +166,8 @@ Built-in services 内置服务
       通过一个网页服务来监控和控制爬虫。
 
 
-Solving specific problems 解决具体的问题
-========================================
+Solving specific problems | 解决具体的问题
+==========================================
 
 .. toctree::
    :caption: Solving specific problems
@@ -240,8 +240,8 @@ Solving specific problems 解决具体的问题
 
 .. _extending-scrapy:
 
-Extending Scrapy 相关拓展
-=========================
+Extending Scrapy | 相关拓展
+===========================
 
 .. toctree::
    :caption: Extending Scrapy
@@ -285,8 +285,8 @@ Extending Scrapy 相关拓展
       快速导出爬取的数据到本地文件里，支持XML，CSV等等。
 
 
-All the rest 其他事项
-=====================
+All the rest | 其他事项
+=======================
 
 .. toctree::
    :caption: All the rest

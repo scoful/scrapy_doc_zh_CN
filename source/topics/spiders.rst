@@ -1,8 +1,8 @@
 .. _topics-spiders:
 
-=======
-Spiders
-=======
+==============
+Spiders | 爬虫
+==============
 
 Spiders are classes which define how a certain site (or a group of sites) will be
 scraped, including how to perform the crawl (i.e. follow links) and how to

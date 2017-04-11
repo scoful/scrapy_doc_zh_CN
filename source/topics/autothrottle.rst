@@ -1,8 +1,8 @@
 .. _topics-autothrottle:
 
-======================
-AutoThrottle extension
-======================
+=====================================
+AutoThrottle extension | 负载均衡拓展
+=====================================
 
 This is an extension for automatically throttling crawling speed based on load
 of both the Scrapy server and the website you are crawling.

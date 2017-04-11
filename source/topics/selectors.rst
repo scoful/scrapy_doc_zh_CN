@@ -1,8 +1,8 @@
 .. _topics-selectors:
 
-=========
-Selectors
-=========
+==================
+Selectors | 选择器
+==================
 
 When you're scraping web pages, the most common task you need to perform is
 to extract data from the HTML source. There are several libraries available to

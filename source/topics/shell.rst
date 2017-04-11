@@ -1,8 +1,8 @@
 .. _topics-shell:
 
-============
-Scrapy shell
-============
+================================
+Scrapy shell | Scrapy 命令行模式
+================================
 
 The Scrapy shell is an interactive shell where you can try and debug your
 scraping code very quickly, without having to run the spider. It's meant to be
